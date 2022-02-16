@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains information on entanglement resources, measures, proofs
   for fungibility, concentration and dilution.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-865j-quantum-information-science-spring-2006/10e231598a7a933d3faa14e65f309c82_lecture_17.pdf
+file: /media/courses/mas-865j-quantum-information-science-spring-2006/10e231598a7a933d3faa14e65f309c82_lecture_17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture_17.pdf
 uid: 10e23159-8a7a-933d-3faa-14e65f309c82
