@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains lecture notes for the topics of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -30,7 +31,7 @@ Students
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Operations; Operator Sum Representation; System-Environment Model (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_1))
+Quantum Operations; Operator Sum Representation; System-Environment Model ({{% resource_link 60b6ae2a-1af4-e34b-37ec-14c8befa146a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -42,7 +43,7 @@ Kayla Jacobs
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Error Correction - Criteria and Examples ([PDF]({{< baseurl >}}/resources/lecture_2))
+Quantum Error Correction - Criteria and Examples ({{% resource_link a44deeba-4e70-6595-5a54-c979af9aac33 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Jennifer Novosad
@@ -54,7 +55,7 @@ Jennifer Novosad
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Calderbank Shor Steane Codes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_3))
+Calderbank Shor Steane Codes ({{% resource_link 135b9b80-4248-5edd-d0f8-f1e2122fa228 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Saikat Guha
@@ -66,7 +67,7 @@ Saikat Guha
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Stabilizers; Stabilizer Quantum Codes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_4))
+Stabilizers; Stabilizer Quantum Codes ({{% resource_link 793e876d-4bbc-fcf6-180b-3dba09dd602c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -78,7 +79,7 @@ Kayla Jacobs
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Topological Quantum Codes; Kitaev's Anyon Model (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_5))
+Topological Quantum Codes; Kitaev's Anyon Model ({{% resource_link bca2b010-172c-7b14-bb22-233526bb22d5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Igor Sylvester
@@ -90,7 +91,7 @@ Igor Sylvester
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Stabilizers II; Computing on Quantum Codes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_6))
+Stabilizers II; Computing on Quantum Codes ({{% resource_link 248f5105-6629-82d1-99b5-672a04088f52 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Danial Lashkari
@@ -102,7 +103,7 @@ Danial Lashkari
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Concatenated Codes; The Threshold Theorem (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_7))
+Concatenated Codes; The Threshold Theorem ({{% resource_link 7566f945-d7af-6676-c184-01680ede99ff "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Salman Abolfathe
@@ -114,7 +115,7 @@ Salman Abolfathe
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Cluster State Quantum Computation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_8))
+Cluster State Quantum Computation ({{% resource_link b09264bd-df86-211d-adf9-949a7cd96b04 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -126,7 +127,7 @@ Kayla Jacobs
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Measurement and Teleportation Based Quantum Computation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_9))
+Measurement and Teleportation Based Quantum Computation ({{% resource_link 643ddf5f-2ec1-f40b-e977-97c847358e07 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -138,7 +139,7 @@ Kayla Jacobs
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Adiabatic Quantum Computation ([PDF]({{< baseurl >}}/resources/lecture_10))
+Adiabatic Quantum Computation ({{% resource_link b39bf95b-873d-6fe2-0e18-d9656c22d145 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Edward Platt
@@ -150,7 +151,7 @@ Edward Platt
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Algorithms on Graphs; Quantum Random Walks ([PDF]({{< baseurl >}}/resources/lecture_11))
+Quantum Algorithms on Graphs; Quantum Random Walks ({{% resource_link 0d7aea4e-65f8-9ad0-fffe-e1a9e5451828 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Isaac Kim
@@ -162,7 +163,7 @@ Isaac Kim
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Algorithms: The Abelian Hidden Subgroup Problem; QFT Over Sn (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_12))
+Quantum Algorithms: The Abelian Hidden Subgroup Problem; QFT Over Sn ({{% resource_link 3142d610-5eea-0fb1-c2c6-323c9c3f64e0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -174,7 +175,7 @@ Kayla Jacobs
 13
 {{< tdclose >}}
 {{< tdopen >}}
-The Nonabelian HSP; Hidden Dihedral Group; Positive and Negative Results (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_13))
+The Nonabelian HSP; Hidden Dihedral Group; Positive and Negative Results ({{% resource_link a2c81012-a79d-db66-3318-44b0285828bf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Igor Sylvestor
@@ -186,7 +187,7 @@ Igor Sylvestor
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Channels I: Quantum Data Compression; Entanglement Concentration; Typical Subspaces (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_14))
+Channels I: Quantum Data Compression; Entanglement Concentration; Typical Subspaces ({{% resource_link 2b88645a-d923-77d5-c375-00fd856d7f9a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Stephen Jordan
@@ -198,7 +199,7 @@ Stephen Jordan
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Channels II: Holevo's Theorem; HSW Theorem; Entanglement Assisted Channel Capacity (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_15))
+Channels II: Holevo's Theorem; HSW Theorem; Entanglement Assisted Channel Capacity ({{% resource_link 42662206-04eb-311d-bba4-869e942bcd67 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Saikat Guha
@@ -210,7 +211,7 @@ Saikat Guha
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Channels III: Quantum-Quantum Channels, Mother/Father Protocol; Distillable Entanglement (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_16))
+Channels III: Quantum-Quantum Channels, Mother/Father Protocol; Distillable Entanglement ({{% resource_link c2950227-9e12-cfa7-8212-a975d0e68a6c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -222,7 +223,7 @@ Kayla Jacobs
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Entanglement as a Physical Resource (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_17))
+Entanglement as a Physical Resource ({{% resource_link 10e23159-8a7a-933d-3faa-14e65f309c82 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Igor Sylvestor
@@ -234,7 +235,7 @@ Igor Sylvestor
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Protocols - Quantum Communication Complexity; Distributed Algorithms (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture18_alt))
+Quantum Protocols - Quantum Communication Complexity; Distributed Algorithms ({{% resource_link 0c96fce5-d151-e03b-df9c-bd11f97c2a93 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Jennifer Novosad
@@ -246,7 +247,7 @@ Jennifer Novosad
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Games (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lecture_19))
+Quantum Games ({{% resource_link 905ee40b-f818-ef29-fa0b-eca49657c5ae "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Kayla Jacobs
@@ -258,7 +259,7 @@ Kayla Jacobs
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Quantum Cryptography ([PDF]({{< baseurl >}}/resources/lecture_20))
+Quantum Cryptography ({{% resource_link cb331999-863d-e6d1-ed5f-5bad49462d47 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Edward Platt

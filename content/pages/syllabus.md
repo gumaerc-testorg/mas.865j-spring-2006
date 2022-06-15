@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains course requirements, prerequisites, asignments,
+  textbook and the grading criteria for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
