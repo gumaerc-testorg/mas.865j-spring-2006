@@ -6,6 +6,7 @@ file: /courses/mas-865j-quantum-information-science-spring-2006/0d7aea4e65f89ad0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_11.pdf
 uid: 0d7aea4e-65f8-9ad0-fffe-e1a9e5451828
 ---
 This file contains information on Quantum?Random?Walks, Grover?s?Algorithm, Generalization and Element?Distinctness.
-

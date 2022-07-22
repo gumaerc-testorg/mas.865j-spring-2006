@@ -6,6 +6,7 @@ file: /courses/mas-865j-quantum-information-science-spring-2006/bca2b010172c7b14
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_5.pdf
 uid: bca2b010-172c-7b14-bb22-233526bb22d5
 ---
 This resource contains information on a special kind of CSS code known as turic code, Euler's theorem and Hamiltonian energy.
-

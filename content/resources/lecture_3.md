@@ -6,6 +6,7 @@ file: /courses/mas-865j-quantum-information-science-spring-2006/135b9b8042485edd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_3.pdf
 uid: 135b9b80-4248-5edd-d0f8-f1e2122fa228
 ---
 This resource contains information on CSS codes and how these codes help in correcting quibit errors and GV bound.
-

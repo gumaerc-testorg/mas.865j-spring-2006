@@ -5,6 +5,7 @@ file: /courses/mas-865j-quantum-information-science-spring-2006/4611f110d829bec6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1.pdf
 uid: 4611f110-d829-bec6-ecde-59569c0afff5
 ---
 This file contains lecture topics, recommended readings and problems.
-

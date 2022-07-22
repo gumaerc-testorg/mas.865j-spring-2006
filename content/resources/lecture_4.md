@@ -6,6 +6,7 @@ file: /courses/mas-865j-quantum-information-science-spring-2006/793e876d4bbcfcf6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_4.pdf
 uid: 793e876d-4bbc-fcf6-180b-3dba09dd602c
 ---
 This resource contains information on  lecture on stabilizer code correction and error correction.
-

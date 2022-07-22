@@ -6,6 +6,7 @@ file: /courses/mas-865j-quantum-information-science-spring-2006/248f5105662982d1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_6.pdf
 uid: 248f5105-6629-82d1-99b5-672a04088f52
 ---
 This file contains topics: Stabilizers(Review), Normalizers, Gottesman- Knill, Computing on codes, Teleportation Stabilizers
-

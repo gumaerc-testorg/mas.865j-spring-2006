@@ -5,6 +5,7 @@ file: /courses/mas-865j-quantum-information-science-spring-2006/c29502279e12cfa7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

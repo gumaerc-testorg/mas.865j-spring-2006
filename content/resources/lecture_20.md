@@ -6,6 +6,7 @@ file: /courses/mas-865j-quantum-information-science-spring-2006/cb331999863de6d1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture_20.pdf
 uid: cb331999-863d-e6d1-ed5f-5bad49462d47
 ---
 This resource contains information on cryptography, quantum key distribution, EPR protocol, CSS code protocol and secure BB84.
-

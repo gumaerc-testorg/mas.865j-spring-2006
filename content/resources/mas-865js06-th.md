@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: A bloch sphere.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-865js06-th.jpg
 uid: e24bc2b6-16e4-1287-e365-45662c558323
 ---
 New image Upload
-
