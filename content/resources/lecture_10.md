@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-865j-quantum-information-science-spring-2006/b39bf95b873d6fe20e18d9656c22d145_lecture_10.pdf
+file_size: 145579
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

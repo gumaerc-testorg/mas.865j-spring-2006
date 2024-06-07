@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file includes topics: Perspective, Classical Comm. Complexity,
   Ex. Fingerprinting (Q), Digital Signatures and Q.DSS.'
 file: /courses/mas-865j-quantum-information-science-spring-2006/0c96fce5d151e03bdf9cbd11f97c2a93_lecture18_alt.pdf
+file_size: 388693
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

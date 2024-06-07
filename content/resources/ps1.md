@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains lecture topics, recommended readings and problems.
 file: /courses/mas-865j-quantum-information-science-spring-2006/4611f110d829bec6ecde59569c0afff5_ps1.pdf
+file_size: 159019
 file_type: application/pdf
 learning_resource_types:
 - Assignments
