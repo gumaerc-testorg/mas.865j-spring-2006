@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information on density matrices, system environment,
   quantam operations and operation-sum representation.
 file: /courses/mas-865j-quantum-information-science-spring-2006/60b6ae2a1af4e34b37ec14c8befa146a_lecture_1.pdf
+file_size: 214229
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
