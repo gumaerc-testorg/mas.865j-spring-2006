@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information on various channels with examples, classical
   shannon theory, typical sequences and encoding.
-file: /courses/mas-865j-quantum-information-science-spring-2006/2b88645ad92377d5c37500fd856d7f9a_lecture_14.pdf
+file: /ol-ocw-studio-app/courses/mas-865j-quantum-information-science-spring-2006/2b88645ad92377d5c37500fd856d7f9a_lecture_14.pdf
 file_size: 568727
 file_type: application/pdf
 learning_resource_types:
