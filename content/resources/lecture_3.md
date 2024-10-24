@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on CSS codes and how these codes help
   in correcting quibit errors and GV bound.
-file: /courses/mas-865j-quantum-information-science-spring-2006/135b9b8042485eddd0f8f1e2122fa228_lecture_3.pdf
+file: /ol-ocw-studio-app/courses/mas-865j-quantum-information-science-spring-2006/135b9b8042485eddd0f8f1e2122fa228_lecture_3.pdf
 file_size: 155429
 file_type: application/pdf
 learning_resource_types:
