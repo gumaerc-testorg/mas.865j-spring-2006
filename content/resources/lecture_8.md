@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains topics: Models of QC, One bit teleportation, Cluster
   states, Cluster Q.C. model and fault tolerance.'
-file: /ol-ocw-studio-app/courses/mas-865j-quantum-information-science-spring-2006/b09264bddf86211dadf9949a7cd96b04_lecture_8.pdf
+file: /courses/mas-865j-quantum-information-science-spring-2006/b09264bddf86211dadf9949a7cd96b04_lecture_8.pdf
 file_size: 272538
 file_type: application/pdf
 learning_resource_types:

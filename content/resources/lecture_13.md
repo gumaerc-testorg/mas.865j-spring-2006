@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains algorithms for non-abelion groups.
-file: /ol-ocw-studio-app/courses/mas-865j-quantum-information-science-spring-2006/a2c81012a79ddb66331844b0285828bf_lecture_13.pdf
+file: /courses/mas-865j-quantum-information-science-spring-2006/a2c81012a79ddb66331844b0285828bf_lecture_13.pdf
 file_size: 454672
 file_type: application/pdf
 learning_resource_types:

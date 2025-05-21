@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains topics: Stabilizers(Review), Normalizers, Gottesman-
   Knill, Computing on codes, Teleportation Stabilizers'
-file: /ol-ocw-studio-app/courses/mas-865j-quantum-information-science-spring-2006/248f5105662982d199b5672a04088f52_lecture_6.pdf
+file: /courses/mas-865j-quantum-information-science-spring-2006/248f5105662982d199b5672a04088f52_lecture_6.pdf
 file_size: 316401
 file_type: application/pdf
 learning_resource_types:

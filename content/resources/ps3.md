@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains lecture topics, recommended readings and problems.
-file: /ol-ocw-studio-app/courses/mas-865j-quantum-information-science-spring-2006/bb0b8b9319950af5d9afc900e9a7e8a6_ps3.pdf
+file: /courses/mas-865j-quantum-information-science-spring-2006/bb0b8b9319950af5d9afc900e9a7e8a6_ps3.pdf
 file_size: 127177
 file_type: application/pdf
 learning_resource_types:
