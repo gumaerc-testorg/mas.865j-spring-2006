@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-865j-quantum-information-science-spring-2006/905ee40bf818ef29fa0beca49657c5ae_lecture_19.pdf
+file: /ol-ocw-studio-app/courses/mas-865j-quantum-information-science-spring-2006/905ee40bf818ef29fa0beca49657c5ae_lecture_19.pdf
 file_size: 415510
 file_type: application/pdf
 learning_resource_types:
