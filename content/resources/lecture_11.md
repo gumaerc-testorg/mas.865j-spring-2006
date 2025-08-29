@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information on Quantum?Random?Walks, Grover?s?Algorithm,
   Generalization and Element?Distinctness.
-file: /courses/mas-865j-quantum-information-science-spring-2006/0d7aea4e65f89ad0fffee1a9e5451828_lecture_11.pdf
+file: /ol-ocw-studio-app/courses/mas-865j-quantum-information-science-spring-2006/0d7aea4e65f89ad0fffee1a9e5451828_lecture_11.pdf
 file_size: 135474
 file_type: application/pdf
 learning_resource_types:
