@@ -6,8 +6,7 @@ file_size: 7332
 file_type: image/jpeg
 image_metadata:
   caption: An illustration of the Bloch sphere, which provides a geometrical representation
-    of the pure state space of a 1 qubit quantum register. (Image courtesy of {{%
-    resource_link "08fb1530-4863-495b-aa12-685a4ac59d00" "Wikipedia" %}}.)
+    of the pure state space of a 1 qubit quantum register. (Image courtesy of [Wikipedia](http://en.wikipedia.org/wiki/Main_Page).)
   credit: ''
   image-alt: A bloch sphere.
 learning_resource_types: []
